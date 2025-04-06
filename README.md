@@ -10,5 +10,5 @@
 
 Окно просмотра гирба, в котором также можно отредактировать информацию о нём(появляется при нажатие на гриб на главном экране)
 
-![image](https://github.com/user-attachments/assets/44757b51-cd48-482c-b996-1fca5adfa9f9)
+![image](https://github.com/user-attachments/assets/239584cc-44d3-4d61-9ce5-b937194b0e53)
 
